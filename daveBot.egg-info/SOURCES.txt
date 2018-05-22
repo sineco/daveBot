@@ -1,0 +1,7 @@
+setup.py
+daveBot/__init__.py
+daveBot.egg-info/PKG-INFO
+daveBot.egg-info/SOURCES.txt
+daveBot.egg-info/dependency_links.txt
+daveBot.egg-info/not-zip-safe
+daveBot.egg-info/top_level.txt
